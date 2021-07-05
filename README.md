@@ -3,13 +3,15 @@ Attention-RNN来做多触点归因模型
 
 代码引用自：[jeremite/channel-attribution-model](https://github.com/jeremite/channel-attribution-model)
 不过之前作者的库没把数据集放上来，我就看着作者的博客文档，自己造了一个可以跑的数据集。
-
+我的博客：
+[多渠道归因分析（Attribution）：用attention-RNN来做归因建模（附代码demo）（五）](https://mattzheng.blog.csdn.net/article/details/118469466)
 
 之前几篇多渠道归因分析应该算是比较通用的一些方法论：
 - [多渠道归因分析（Attribution）：传统归因（一）](https://mattzheng.blog.csdn.net/article/details/117290387)
 - [多渠道归因分析：互联网的归因江湖（二）](https://mattzheng.blog.csdn.net/article/details/117294925)
 - [多渠道归因分析：python实现马尔可夫链归因（三）](https://mattzheng.blog.csdn.net/article/details/117296062)
 - [多渠道归因分析（Attribution）：python实现Shapley Value（四）](https://blog.csdn.net/sinat_26917383/article/details/117443680)
+- [多渠道归因分析（Attribution）：用attention-RNN来做归因建模（附代码demo）（五）](https://mattzheng.blog.csdn.net/article/details/118469466)
 
 之前在查阅资料的时候，有看到一篇更进阶的，用深度学习来解决问题，
 论文可参考18年的一篇：
@@ -19,10 +21,6 @@ Attention-RNN来做多触点归因模型
 官方：[channel-attribution-model](https://github.com/jeremite/channel-attribution-model)
 
 我把可以跑通demo代码放在自己的github之中：[mattzheng/Attention-RNN-Multi-Touch-Attribution](https://github.com/mattzheng/Attention-RNN-Multi-Touch-Attribution)
-
----
-
-@[toc]
 
 
 ---
